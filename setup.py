@@ -1,10 +1,10 @@
-from distutils.core import setup
+from setuptools import setup
 
 setup(
 
-    name = "GraphLibrary",
+    name = "graphlibrary",
 
-    packages = ["Graph"],
+    packages = ["graphlibrary"],
 
     version = "1.0.0",
 
@@ -12,7 +12,7 @@ setup(
 
     author_email = "svasilev94@gmail.com",
 
-    #url = "http://pypi.python.org/pypi/GraphLibrary_v100/",
+    url = "https://github.com/svasilev94/GraphLibrary",
 
     classifiers = [
         "Programming Language :: Python",
