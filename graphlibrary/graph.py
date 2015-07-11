@@ -1,4 +1,4 @@
-from exceptions import *
+from graphlibrary.exceptions import *
 
 
 class Graph:

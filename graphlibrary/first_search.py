@@ -1,7 +1,8 @@
-import digraph
-import graph
-from exceptions import *
 from queue import Queue
+
+from graphlibrary import digraph
+from graphlibrary import graph
+from graphlibrary.exceptions import *
 
 
 def BFS(G, start):

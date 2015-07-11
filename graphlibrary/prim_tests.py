@@ -1,7 +1,8 @@
 import unittest
-import prim
-import digraph
-import graph
+
+from graphlibrary import prim
+from graphlibrary import digraph
+from graphlibrary import graph
 
 
 G = graph.Graph()

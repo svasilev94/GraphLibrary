@@ -1,7 +1,8 @@
 import unittest
-import dijkstra
-import digraph
-import graph
+
+from graphlibrary import dijkstra
+from graphlibrary import digraph
+from graphlibrary import graph
 
 
 G = digraph.DiGraph()

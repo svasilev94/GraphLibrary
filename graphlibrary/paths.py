@@ -1,6 +1,6 @@
-import digraph
-import graph
-from exceptions import *
+from graphlibrary import digraph
+from graphlibrary import graph
+from graphlibrary.exceptions import *
 
 
 def find_all_paths(G, start, end, path=[]):

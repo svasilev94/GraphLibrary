@@ -1,7 +1,8 @@
 import unittest
-import paths
-import digraph
-import graph
+
+from graphlibrary import paths
+from graphlibrary import digraph
+from graphlibrary import graph
 
 
 G = graph.Graph()

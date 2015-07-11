@@ -1,5 +1,6 @@
 import unittest
-import digraph
+
+from graphlibrary import digraph
 
 G = digraph.DiGraph()
 G.vertices = {1: [3], 2: [3, 4], 3: [1, 2, 4], 4: [2, 3]}

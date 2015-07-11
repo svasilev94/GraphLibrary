@@ -1,5 +1,5 @@
-from graph import *
-from exceptions import *
+from graphlibrary.graph import *
+from graphlibrary.exceptions import *
 
 
 class DiGraph(Graph):

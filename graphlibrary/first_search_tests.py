@@ -1,7 +1,8 @@
 import unittest
-import first_search
-import digraph
-import graph
+
+from graphlibrary import first_search
+from graphlibrary import digraph
+from graphlibrary import graph
 
 
 EmptyG = graph.Graph()

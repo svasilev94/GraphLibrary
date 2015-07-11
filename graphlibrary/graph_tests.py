@@ -1,5 +1,6 @@
 import unittest
-import graph
+
+from graphlibrary import graph
 
 
 G = graph.Graph()

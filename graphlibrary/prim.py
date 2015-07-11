@@ -1,7 +1,8 @@
-import digraph
-import graph
 from queue import Queue
-from exceptions import *
+
+from graphlibrary import digraph
+from graphlibrary import graph
+from graphlibrary.exceptions import *
 
 
 def connected_components(G):
